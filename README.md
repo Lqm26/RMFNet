@@ -26,14 +26,11 @@ Please check the file `scripts\train_ours.sh` and `scripts\infer_ours.sh` for tr
 If you find this work helpful, please consider citing our paper.
 
 ```latex
-@misc{liang2024efficienteventstreamsuperresolution,
-      title={Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion}, 
-      author={Quanmin Liang and Zhilin Huang and Xiawu Zheng and Feidiao Yang and Jun Peng and Kai Huang and Yonghong Tian},
-      year={2024},
-      eprint={2406.19640},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2406.19640}, 
+@article{liang2024efficient,
+  title={Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion},
+  author={Liang, Quanmin and Huang, Zhilin and Zheng, Xiawu and Yang, Feidiao and Peng, Jun and Huang, Kai and Tian, Yonghong},
+  journal={arXiv preprint arXiv:2406.19640},
+  year={2024}
 }
 ```
 
