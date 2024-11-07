@@ -26,11 +26,9 @@ Please check the file `scripts\train_ours.sh` and `scripts\infer_ours.sh` for tr
 If you find this work helpful, please consider citing our paper.
 
 ```latex
-@article{liang2024efficient,
+@article{liangefficient,
   title={Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion},
-  author={Liang, Quanmin and Huang, Zhilin and Zheng, Xiawu and Yang, Feidiao and Peng, Jun and Huang, Kai and Tian, Yonghong},
-  journal={arXiv preprint arXiv:2406.19640},
-  year={2024}
+  author={Liang, Quanmin and Huang, Zhilin and Zheng, Xiawu and Yang, Feidiao and Peng, Jun and Huang, Kai and Tian, Yonghong}
 }
 ```
 
