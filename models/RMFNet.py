@@ -39,7 +39,7 @@ class Multi_Branch(nn.Module):
         x_neg = self.ResBlock2(x_neg)
 
         x_h_m = F.relu(self.conv_h_m(x_m))
-        x_o_m = self.conv_o_m(torch.cat((x_neg, x_neg), dim=1))
+        x_o_m = self.conv_o_m(torch.cat((x_pos, x_neg), dim=1))
 
         return x_h_m, x_o_m
 
